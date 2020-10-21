@@ -1,6 +1,7 @@
 package java.com.freeboard01.api.user;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.freeboard01.api.user.UserForm;
 import com.freeboard01.domain.user.UserEntity;
 import com.freeboard01.domain.user.UserRepository;
 import org.junit.jupiter.api.BeforeEach;

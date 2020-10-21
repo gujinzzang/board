@@ -1,6 +1,7 @@
 package java.com.freeboard01.api.board;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.freeboard01.api.board.BoardForm;
 import com.freeboard01.api.user.UserForm;
 import com.freeboard01.domain.board.BoardEntity;
 import com.freeboard01.domain.board.BoardRepository;
